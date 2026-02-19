@@ -1,0 +1,14 @@
+path: C:/Users/choud/OneDrive/Desktop/ARM 3/archive/images
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 6
+names:
+  0: HMV
+  1: LMV
+  2: Pedestrian
+  3: RoadDamages
+  4: SpeedBump
+  5: UnsurfacedRoad
