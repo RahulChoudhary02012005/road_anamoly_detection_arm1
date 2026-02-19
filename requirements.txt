@@ -1,0 +1,7 @@
+ultralytics
+tensorflow
+opencv-python
+numpy
+tflite-runtime
+onnx
+onnxruntime

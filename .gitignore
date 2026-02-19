@@ -1,0 +1,61 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Bytecode and compiled files
+*.so
+*.dll
+*.pyd
+*.exe
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Model weights (large files)
+*.pt
+*.onnx
+*.tflite
+
+# Dataset folders (do not upload large datasets)
+dataset/
+data/
+images/
+labels/
+
+# Training output folders
+runs/
+outputs/
+
+# TensorBoard logs
+logs/
+
+# Calibration data
+*.npy
+
+# Temporary files
+*.log
+*.tmp
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Cache
+.cache/
